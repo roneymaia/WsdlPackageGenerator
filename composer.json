@@ -1,5 +1,5 @@
 {
-    "name": "wsdltophp/packagegenerator",
+    "name": "roneymaia/packagegenerator",
     "description": "Generate hierarchical PHP classes based on a WSDL",
     "type": "library",
     "keywords" : ["soap","wsdl","php","generator"],
